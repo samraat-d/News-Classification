@@ -12,3 +12,7 @@ Accuracy: 98.797% <br>
 ### Passive Agressive Classifier:
 Accuracy: 99.616% <br>
 ![image](https://github.com/user-attachments/assets/fd374c9c-92ff-45a0-ad6a-9936b893ec92)
+
+### Decision Tree Classifier:
+Accuracy: 99.661% <br>
+![image](https://github.com/user-attachments/assets/1eba6e1f-fa35-40c2-aa83-ad7a6ae3f826)
