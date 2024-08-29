@@ -6,9 +6,9 @@
 
 ## Results
 ### Logistic Regression:
-Accuracy: 98.797%
+Accuracy: 98.797% <br>
 ![image](https://github.com/user-attachments/assets/70d9a93b-dec4-4d5f-a8bd-33e2273c2dbf)
 
 ### Passive Agressive Classifier:
-Accuracy: 99.616%
+Accuracy: 99.616% <br>
 ![image](https://github.com/user-attachments/assets/fd374c9c-92ff-45a0-ad6a-9936b893ec92)
